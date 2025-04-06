@@ -9,7 +9,11 @@
     "lint": "eslint ./src",
     "lint-fix": "eslint ./src --fix"
   },
-  "keywords": ["bookshelf", "api", "hapi"],
+  "keywords": [
+    "bookshelf",
+    "api",
+    "hapi"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -20,6 +24,6 @@
     "eslint": "^8.35.0",
     "eslint-config-airbnb-base": "^15.0.0",
     "eslint-plugin-import": "^2.27.5",
-    "nodemon": "^2.0.20"
+    "nodemon": "^3.1.9"
   }
 }
