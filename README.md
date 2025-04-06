@@ -1,7 +1,3 @@
-Siap! Ini README versi final yang sudah mencakup struktur folder **terbaru** dan lengkap sesuai isi proyekmu:
-
----
-
 # 📚 Bookshelf API
 
 Bookshelf API adalah proyek submission untuk kelas **Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud** dari [Dicoding](https://www.dicoding.com/).
